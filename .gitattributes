@@ -1,0 +1,8 @@
+# Set default behavior to automatically normalize line endings.
+* text=auto
+
+# Define the line endings for common text file types.
+*.ipynb text
+
+# Define the line endings for binary files (should not be modified).
+*.png binary
